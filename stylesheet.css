@@ -19,5 +19,6 @@ img{
     padding: 10px;
     width: 200px;
     transform: rotate(90deg);
-    
+    max-width: 100%;
+    height: auto;
 }
