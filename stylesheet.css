@@ -1,4 +1,4 @@
-.nameHeader {
+.name-header {
     color:olivedrab;
     font-weight:bold;
 }
@@ -6,14 +6,14 @@
     color: orange;
     font-size: 20px;
 }
-.firstList{
+.first-list{
     color:purple;
     font-size:25px;
 }
 body{
-    background-color: powderblue;
+    background-color: #f5f2d0
 }
-img{
+#profile-photo{
     border: 4px solid rgb(194, 16, 16);
     border-radius: 10px;
     padding: 10px;
@@ -21,4 +21,25 @@ img{
     transform: rotate(90deg);
     max-width: 100%;
     height: auto;
+}
+.puppy-img{
+    margin-right:10%;
+}
+.navbar{
+    background-color:black;
+    color:white;
+}
+.nav-link{
+    color:white;
+}
+.navbar-brand{
+    color:gray;
+    font-size:50px;
+}
+.first-button{
+    margin-top:10px;
+}
+
+.hello{
+    color:purple;
 }
