@@ -2,12 +2,11 @@
     color:olivedrab;
     font-weight:bold;
 }
-
-.firstList{
-    color:purple;
-    font-size:25px;
-}
 .paragraph{
     color: orange;
     font-size: 35px;
+}
+.firstList{
+    color:purple;
+    font-size:25px;
 }
