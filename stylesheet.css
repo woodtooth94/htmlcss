@@ -4,9 +4,12 @@
 }
 .paragraph{
     color: orange;
-    font-size: 35px;
+    font-size: 20px;
 }
 .firstList{
     color:purple;
     font-size:25px;
+}
+body{
+    background-color: powderblue;
 }
